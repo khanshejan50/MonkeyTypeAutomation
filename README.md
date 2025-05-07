@@ -6,7 +6,7 @@ This Python script automates typing on [Monkeytype](https://monkeytype.com) usin
 
 ## 📸 Demo
 
-> ⚠️ *Demo GIF or screenshot can be added here for better visualization.*
+[▶ Watch Demo Video](./Recording 2025-05-07 155548.mp4)
 
 ---
 
